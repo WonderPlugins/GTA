@@ -1,0 +1,16 @@
+# GTA Configuration File 
+
+//Kits:
+//Enables the boy kit
+boy: true
+//Enables the girl kit
+girl: true
+//Thief Item
+thiefitem: Diamond
+//Bow & Arrow (might cause lag)
+bow: true
+
+//Messages:
+joingame: [GTA] You have joined a GTA game made by mcpegamerjp.
+broadcastmap: You are playing on Map Default made by Steve.
+killaward: You have been awarded 100 coins for killing .$target.
